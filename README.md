@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kidnixt/kidnixt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/unvqepoi45d7jt1kcwsvgtpn8">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=unvqepoi45d7jt1kcwsvgtpn8&count=4&width=800&unique=yes" alt="Spotify recently played"  />
+  </a>
+  
+</div>
